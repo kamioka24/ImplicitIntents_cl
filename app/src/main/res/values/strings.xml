@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">ImplicitIntents_cl</string>
 
-    <string name="edittext_uri">http://developer.android.com</string>
+    <string name="edittext_uri">https://www.youtube.com/</string>
     <string name="button_uri">Open Website</string>
 
-    <string name="edittext_loc">Golden Gate Bridge</string>
+    <string name="edittext_loc">東京タワー</string>
     <string name="button_loc">Open Location</string>
 
     <string name="edittext_share">\'Twas brillig and the slithy toves</string>
