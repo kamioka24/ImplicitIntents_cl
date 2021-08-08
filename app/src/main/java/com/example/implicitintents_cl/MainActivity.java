@@ -2,7 +2,6 @@ package com.example.implicitintents_cl;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ShareCompat;
-
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
